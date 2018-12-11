@@ -8,7 +8,7 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 
 **Keep it primarily to email.** When communicating with a potential employer, keep correspondence limited to email. Do not use social media messaging services or texts. Employers want a trail of communication when hiring. Facebook posts on a hiring manager’s timeline aren’t a good way for them to make a professional paper trail. It’s a best practice to keep your conversations in the same email thread so the employer can easily place you in their mind. 
 
-**When is a phone call more appropriate than email?** In almost all cases your follow ups should be via email. Talk with your coach if you think a phone call would be appropriate.
+**When is a phone call more appropriate than email?** In almost all cases your follow ups should be via email. Talk with your Career Coach if you think a phone call would be appropriate.
 
 **Don’t assume the employer isn’t interested.** Employers, especially internal tech and HR recruiters, are inundated with applications for every position. Reviewing applicants takes time, so be patient. It’s not personal. 
 
@@ -20,7 +20,7 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 - You sent your resume to a contact/internal referral at a company and haven’t heard back.
 - You sent a cold email to a person you found on LinkedIn and the person never responded.
 - You have applied to a job but haven’t heard back about your application.
-- You’ve responded to an introduction from Flatiron School’s Placements team but the employer hasn’t responded to schedule your interview.
+- You’ve responded to an introduction from Flatiron School’s Employer Parternships team but the employer hasn’t responded to schedule your interview.
 - You have interviewed for a position on the phone or in person, or completed and submitted a code challenge and are awaiting a response from the employer on next steps.
 
 
@@ -32,14 +32,14 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 
 **You have applied to a job but haven’t heard back about your application.** If this is the only action you’ve taken, you can’t really follow up because you didn’t send your resume to a person. You cannot take any further action. This is a big reason why cold-applying to jobs isn’t the best use of your time.
 
-**You’ve responded to an introduction from Flatiron School’s Placements team but the employer hasn’t responded to schedule your interview.** Send a friendly follow up note 5 business days later expressing your continued interest in the role and your availability for the upcoming week to have a conversation. If you follow up once and still don’t hear back, talk to your coach.
+**You’ve responded to an introduction from Flatiron School’s Employer Partnerships team but the employer hasn’t responded to schedule your interview.** Send a friendly follow up note 5 business days later expressing your continued interest in the role and your availability for the upcoming week to have a conversation. If you follow up once and still don’t hear back, talk to your Career Coach. You can also ping the Employer Partnerships contact who connected you, to see if they have any additional updates.
 
 **You have interviewed for a position on the phone or in person, or completed and submitted a code challenge and are awaiting a response from the employer on next steps.** Send a friendly check in email 5 business days later that accomplishes the following:
 * Reminds the person of the role you interviewed for, and thanks the person for taking the time to interview you *Do not say “You probably don’t remember me” or “You may remember me” -- it is highly likely the person will immediately recall your meeting once you set the context for him/her. 
-* Expresses your continued interest in the company for X reason(s)
-* Adds value in the form of a blog post you wrote (if you think the employer would value it)
+* Expresses your continued interest in the company for X reason(s).
+* Adds value in the form of a blog post you wrote (if you think the employer would value it).
 * Indicates you would welcome additional conversations with members of the team/your desire to move forward in the process.
-* If you still don’t hear back, send another email 7-10 business days after that. Do your best to offer additional new value and remain positive. Once you’ve sent your 3rd follow up, check in with your coach about what action to take next. 
+* If you still don’t hear back, send another email 7-10 business days after that. Do your best to offer additional new value and remain positive. Once you’ve sent your 3rd follow up, check in with your Career Coach about what action to take next. 
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-when-you-haven-t-heard-back-from-an-employer'>Careers When You Haven't Heard Back from an Employer</a> on Learn.co and start learning to code for free.</p>

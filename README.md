@@ -1,6 +1,6 @@
 We’ve all found ourselves in a waiting game in the job search. Here are steps to take after you have reached out to a potential contact/referral or interviewed and are waiting to hear back.
 
-Keep in mind that employers (and people in general) are busy. An employer’s top priority is very likely not interviewing software engineers (even though it’s an important job to fill) and instead something more closely related to what their business is trying to accomplish. Recruiters are sometimes working on 20-30 open jobs at a time, so don’t panic if you don’t hear anything for a few days. 
+Keep in mind that employers (and people in general) are busy. An employer’s top priority is very likely not interviewing potential employees (even though it’s an important job to do) and instead something more closely related to what their business is trying to accomplish. Recruiters are sometimes working on 20-30 open jobs at a time, so don’t panic if you don’t hear anything for a few days. 
 
 ## Guidelines
 
@@ -10,9 +10,9 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 
 **When is a phone call more appropriate than email?** In almost all cases your follow ups should be via email. Talk with your Career Coach if you think a phone call would be appropriate.
 
-**Don’t assume the employer isn’t interested.** Employers, especially internal tech and HR recruiters, are inundated with applications for every position. Reviewing applicants takes time, so be patient. It’s not personal. 
+**Don’t assume the employer isn’t interested.** Employers, especially internal and HR recruiters, are inundated with applications for every position. Reviewing applicants takes time, so be patient. It’s not personal. 
 
-**Be positive.** In every piece of communication, remain positive and enthusiastic about the connection/job opportunity. Don’t say things like “since I haven’t heard from you I’m guessing the job is no longer available or you aren’t interested”. Never use language that sounds like you’re angry or offended either, like “It’s been some time since I interviewed for the software engineering role. Would you please update me on the status of my application? This weeks-long process is hampering my job search and it really would be nice to know.”
+**Be positive.** In every piece of communication, remain positive and enthusiastic about the connection/job opportunity. Don’t say things like “since I haven’t heard from you I’m guessing the job is no longer available or you aren’t interested”. Never use language that sounds like you’re angry or offended either, like “It’s been some time since I interviewed for the [Job Title] role. Would you please update me on the status of my application? This weeks-long process is hampering my job search and it really would be nice to know.”
 
 **Don’t call them out.** Don’t ever scold an employer because you think they’re taking too long. Using language like “it’s been 5 days since I heard from you and I’m wondering if you’re still interested in speaking with me about the opportunity” is not appropriate. You’re the one that needs their help.  This behavior will dramatically reduce your chances of the employer responding to you in a positive way. This sort of attitude in general toward people will not serve you well in your job search.
 
@@ -26,7 +26,7 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 
 ## What to do when you find yourself in these situations:
 
-**You sent your resume to a contact/internal referral at a company and haven’t heard back.** Follow up with a friendly email 7-10 days later stating that you’re still super excited about the company for X reasons and that you’d still love the opportunity to connect with someone on their dev or HR team.
+**You sent your resume to a contact/internal referral at a company and haven’t heard back.** Follow up with a friendly email 7-10 days later stating that you’re still super excited about the company for X reasons and that you’d still love the opportunity to connect with someone in HR or on the hiring team.
 
 **You sent a cold email to a person you found on LinkedIn and the person never responded.** Follow up with a brief, cheerful email that says you’d still love the opportunity to chat/meet with this person to talk about X project or X company. In this case, only follow up once. 
 
@@ -40,6 +40,3 @@ Keep in mind that employers (and people in general) are busy. An employer’s to
 * Adds value in the form of a blog post you wrote (if you think the employer would value it).
 * Indicates you would welcome additional conversations with members of the team/your desire to move forward in the process.
 * If you still don’t hear back, send another email 7-10 business days after that. Do your best to offer additional new value and remain positive. Once you’ve sent your 3rd follow up, check in with your Career Coach about what action to take next. 
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-when-you-haven-t-heard-back-from-an-employer'>Careers When You Haven't Heard Back from an Employer</a> on Learn.co and start learning to code for free.</p>

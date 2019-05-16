@@ -1,3 +1,5 @@
+# When You Haven't Heard from an Employer
+
 We’ve all found ourselves in a waiting game in the job search. Here are steps to take after you have reached out to a potential contact/referral or interviewed and are waiting to hear back.
 
 Keep in mind that employers (and people in general) are busy. An employer’s top priority is very likely not interviewing potential employees (even though it’s an important job to do) and instead something more closely related to what their business is trying to accomplish. Recruiters are sometimes working on 20-30 open jobs at a time, so don’t panic if you don’t hear anything for a few days. 
